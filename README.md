@@ -13,4 +13,4 @@ Learning Cairo &amp; Starknet contracts | tea farmer #420 to #1
 Day 8 - 25 Nov 2025: Explored arrays, loops in Cairo; deployed iterative contract on testnet | Streak 8/100 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
 Day 9 - 26 Nov 2025: Explored conditionals, if-else, and match in Cairo; deployed decision-logic contract on testnet | Streak 9/100  #TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewards
 
-
+Day 10 - 27 Nov 2025: Explored functions and recursion in Cairo; deployed a recursive logic contract on testnet | Streak 10/100  #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
