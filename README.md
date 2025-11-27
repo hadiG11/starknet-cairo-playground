@@ -14,3 +14,5 @@ Day 8 - 25 Nov 2025: Explored arrays, loops in Cairo; deployed iterative contrac
 Day 9 - 26 Nov 2025: Explored conditionals, if-else, and match in Cairo; deployed decision-logic contract on testnet | Streak 9/100  #TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewards
 
 Day 10 - 27 Nov 2025: Explored functions and recursion in Cairo; deployed a recursive logic contract on testnet | Streak 10/100  #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
+28 Nov 2025: Daily Tea farming check-in with testnet quest completion
+
