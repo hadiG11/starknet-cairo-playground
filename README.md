@@ -15,4 +15,7 @@ Day 9 - 26 Nov 2025: Explored conditionals, if-else, and match in Cairo; deploye
 
 Day 10 - 27 Nov 2025: Explored functions and recursion in Cairo; deployed a recursive logic contract on testnet | Streak 10/100  #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
 28 Nov 2025: Daily Tea farming check-in with testnet quest completion
+
+November 29, 2025: Updated tea.yaml with new ZK proof config for value layer integration.
+
 
