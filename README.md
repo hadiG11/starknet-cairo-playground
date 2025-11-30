@@ -24,8 +24,12 @@ Day 13 - 30 Nov 2025: Learned conditionals, if-else, and match in Cairo; built a
 zk_config:
   proof_type: recursive
   integration: value_layer
-  testnet_deploy: trueUpdated tea.yaml with enhanced ZK proof details for integration
+  testnet_deploy: trueUpdated tea.yaml with enhanced ZK proof details for integrationname: starknet-cairo-playground
+description: Learning Cairo & Starknet contracts | tea farmer #420 to #1
+homepage: https://github.com/hadiG11/starknet-cairo-playground
+license: MIT
+dependencies: []
 zk_config:
   proof_type: recursive
   integration: value_layer
-  testnet_deploy: trueUpdated tea.yaml with ZK proof config for integration".
+  testnet_deploy: true
