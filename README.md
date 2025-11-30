@@ -24,4 +24,5 @@ Day 13 - 30 Nov 2025: Learned conditionals, if-else, and match in Cairo; built a
 zk_config:
   proof_type: recursive
   integration: value_layer
-  testnet_deploy: true
+  testnet_deploy: trueUpdated tea.yaml with enhanced ZK proof details for integration
+
