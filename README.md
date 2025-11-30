@@ -20,16 +20,5 @@ November 29, 2025: Updated tea.yaml with new ZK proof config for value layer int
 
 Day 12 - 29 Nov 2025: Explored arrays and loops in Cairo; deployed an iterative contract on testnet for Tea integration testing. Catching up on missed day. Streak 12/100 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
 
-Day 13 - 30 Nov 2025: Learned conditionals, if-else, and match in Cairo; built and deployed a decision-logic contract on testnet, optimizing for storage efficiency. Streak 13/100 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
-zk_config:
-  proof_type: recursive
-  integration: value_layer
-  testnet_deploy: trueUpdated tea.yaml with enhanced ZK proof details for integrationname: starknet-cairo-playground
-description: Learning Cairo & Starknet contracts | tea farmer #420 to #1
-homepage: https://github.com/hadiG11/starknet-cairo-playground
-license: MIT
-dependencies: []
-zk_config:
-  proof_type: recursive
-  integration: value_layer
-  testnet_deploy: true
+Day 13 - 30 Nov 2025: Learned conditionals, if-else, and match in Cairo; built and deployed a decision-logic contract on testnet, optimizing for storage efficiency. Streak 13/100 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
+
