@@ -25,4 +25,7 @@ zk_config:
   proof_type: recursive
   integration: value_layer
   testnet_deploy: trueUpdated tea.yaml with enhanced ZK proof details for integration
-
+zk_config:
+  proof_type: recursive
+  integration: value_layer
+  testnet_deploy: trueUpdated tea.yaml with ZK proof config for integration".
