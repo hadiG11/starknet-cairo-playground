@@ -20,5 +20,5 @@ November 29, 2025: Updated tea.yaml with new ZK proof config for value layer int
 
 Day 12 - 29 Nov 2025: Explored arrays and loops in Cairo; deployed an iterative contract on testnet for Tea integration testing. Catching up on missed day. Streak 12/100 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
 
-Day 13 - 30 Nov 2025: Learned conditionals, if-else, and match in Cairo; built and deployed a decision-logic contract on testnet, optimizing for storage efficiency. Streak 13/100 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropReward
+Day 13 - 30 Nov 2025: Learned conditionals, if-else, and match in Cairo; built and deployed a decision-logic contract on testnet, optimizing for storage efficiency. Streak 13/100 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
 
