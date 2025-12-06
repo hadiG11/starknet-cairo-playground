@@ -22,4 +22,8 @@ Day 12 - 29 Nov 2025: Explored arrays and loops in Cairo; deployed an iterative 
 
 Day 13 - 30 Nov 2025: Learned conditionals, if-else, and match in Cairo; built and deployed a decision-logic contract on testnet, optimizing for storage efficiency. Streak 13/100 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
  01 Dec,day 14 2025: Daily Tea farming check-in with testnet quest update; optimized tea.yaml for function-based ZK integrations.Day 15 (Dec 02, 2025): Explored enums and structs in Cairo; deployed a structured data contract on testnet, enhancing Tea Protocol integration for OSS rewards. Streak 14/100 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
-
+Tested Cairo Playground functions and checked output correctness. Logged minor differences in computation time.Dec 3
+Tested Cairo Playground functions and checked output correctness. Logged minor differences in computation time.Dec 4
+Reviewed Tea docs update and validated a basic contract execution on the testnet environment.Dec 5
+Ran a small Cairo script and compared gas cost before and after optimizationDec 6
+Debugged a failing function; issue traced to wrong argument indexing. Documented the fix.
