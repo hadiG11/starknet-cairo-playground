@@ -27,4 +27,6 @@ Tested Cairo Playground functions and checked output correctness. Logged minor d
 Reviewed Tea docs update and validated a basic contract execution on the testnet environment.Dec 5
 Ran a small Cairo script and compared gas cost before and after optimizationDec 6
 Debugged a failing function; issue traced to wrong argument indexing. Documented the fix.Dec 7
-Implemented a small Cairo test routine to verify storage reads under concurrent calls; logged delta in execution cost and updated the validation notes for reproducibility.
+Implemented a small Cairo test routine to verify storage reads under concurrent calls; logged delta in execution cost and updated the validation notes for reproducibility.Starknet Cairo-Dec 08,2025:Simple factorial func:func factorial(n: felt)->(res: felt) { if (n == 0){return(res=1); }let(res)=factorial(n-1); return(res=n*res);}
+Test:factorial(5)=120,daily practice for streak
+
