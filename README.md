@@ -33,4 +33,6 @@ Tea Protocol Streak 15/100 - Dec 09, 2025: Explored Cairo array sum: func sum_ar
 Test: sum_array([1,2,3],3)=6, daily streak practice. 
 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
 
-
+Tea Protocol Streak 16/100 - Dec 10, 2025: Tested Cairo's struct handling: struct Point { x: felt, y: felt, } func add_points(p1: Point, p2: Point) -> (res: Point) { return (res = Point(x = p1.x + p2.x, y = p1.y + p2.y)); }
+Test: add_points(Point(1,2), Point(3,4)) = Point(4,6), streak practice. 
+#TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
