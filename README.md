@@ -29,4 +29,8 @@ Ran a small Cairo script and compared gas cost before and after optimizationDec 
 Debugged a failing function; issue traced to wrong argument indexing. Documented the fix.Dec 7
 Implemented a small Cairo test routine to verify storage reads under concurrent calls; logged delta in execution cost and updated the validation notes for reproducibility.Starknet Cairo-Dec 08,2025:Simple factorial func:func factorial(n: felt)->(res: felt) { if (n == 0){return(res=1); }let(res)=factorial(n-1); return(res=n*res);}
 Test:factorial(5)=120,daily practice for streak
+Tea Protocol Streak 15/100 - Dec 09, 2025: Explored Cairo array sum: func sum_array(arr: felt*, len: felt) -> (sum: felt) { if (len == 0) { return (sum=0); } let (rest_sum) = sum_array(arr+1, len-1); return (sum = [arr] + rest_sum); }
+Test: sum_array([1,2,3],3)=6, daily streak practice. 
+#TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
+
 
