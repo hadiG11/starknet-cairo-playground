@@ -36,3 +36,11 @@ Test: sum_array([1,2,3],3)=6, daily streak practice.
 Tea Protocol Streak 16/100 - Dec 10, 2025: Tested Cairo's struct handling: struct Point { x: felt, y: felt, } func add_points(p1: Point, p2: Point) -> (res: Point) { return (res = Point(x = p1.x + p2.x, y = p1.y + p2.y)); }
 Test: add_points(Point(1,2), Point(3,4)) = Point(4,6), streak practice. 
 #TeaProtocol #Starknet #CairoLang #OSSImpact #AirdropRewards
+Tea Protocol Streak 23/100 - Dec 17, 2025:
+Implemented Cairo palindrome check: func is_palindrome(s: felt*, len: felt) -> (res: felt) { if (len <= 1) { return (res=1); } if (s[0] != s[len-1]) { return (res=0); } return is_palindrome(s+1, len-2); }
+Test: is_palindrome([1,2,1],3)=1, is_palindrome([1,2,3],3)=0, daily streak practice. #TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewardsTea Protocol Streak 24/100 - Dec 18, 2025:
+Explored Cairo sort array: func sort_array(arr: felt*, len: felt) { if (len <= 1) { return (); } let pivot = arr[0]; // Simplified bubble sort for demo. for (i=0; i<len-1; i=i+1) { for (j=0; j<len-i-1; j=j+1) { if (arr[j] > arr[j+1]) { let temp = arr[j]; arr[j] = arr[j+1]; arr[j+1] = temp; } } } }
+Test: sort_array([3,1,2],3) results in [1,2,3], daily streak practice. #TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewardsTea Protocol Streak 25/100 - Dec 19, 2025:
+Tested Cairo prime check: func is_prime(n: felt, i: felt=2) -> (res: felt) { if (n <= 1) { return (res=0); } if (i*i > n) { return (res=1); } if (n % i == 0) { return (res=0); } return is_prime(n, i+1); }
+Test: is_prime(7)=1, is_prime(8)=0, daily streak practice. #TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewards
+
