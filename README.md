@@ -42,5 +42,10 @@ Test: is_palindrome([1,2,1],3)=1, is_palindrome([1,2,3],3)=0, daily streak pract
 Explored Cairo sort array: func sort_array(arr: felt*, len: felt) { if (len <= 1) { return (); } let pivot = arr[0]; // Simplified bubble sort for demo. for (i=0; i<len-1; i=i+1) { for (j=0; j<len-i-1; j=j+1) { if (arr[j] > arr[j+1]) { let temp = arr[j]; arr[j] = arr[j+1]; arr[j+1] = temp; } } } }
 Test: sort_array([3,1,2],3) results in [1,2,3], daily streak practice. #TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewardsTea Protocol Streak 25/100 - Dec 19, 2025:
 Tested Cairo prime check: func is_prime(n: felt, i: felt=2) -> (res: felt) { if (n <= 1) { return (res=0); } if (i*i > n) { return (res=1); } if (n % i == 0) { return (res=0); } return is_prime(n, i+1); }
-Test: is_prime(7)=1, is_prime(8)=0, daily streak practice. #TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewards
+Test: is_prime(7)=1, is_prime(8)=0, daily streak practice. #TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewards#TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewards Tea Protocol Streak 20/100 - Dec 14, 2025: Tested Cairo factorial checkfunc factorial(n: felt) -> (res: felt) {
+    if (n <= 1) { return (res=1); }
+    let (temp) = factorial(n-1);
+    return (res = n * temp);
+}
+Test: factorial(5)=120, factorial(0)=1, daily streak practice.
 
