@@ -48,4 +48,4 @@ Test: is_prime(7)=1, is_prime(8)=0, daily streak practice. #TeaProtocol #Starkne
     return (res = n * temp);
 }
 Test: factorial(5)=120, factorial(0)=1, daily streak practice.
-
+#TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewards Tea Protocol Streak 21/100 - Dec 15, 2025: Explored Cairo array reversal: func reverse_array(arr: felt*, len: felt) -> (res: felt*) { if (len == 0) { return (res=arr); } let (reversed) = reverse_array(arr + 1, len - 1); [reversed + len - 1] = [arr]; return (res=reversed); } Test: reverse_array([3,2,1],3) results in [1,2,3], daily streak practice.#TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewards Tea Protocol Streak 22/100 - Dec 16, 2025: Tested Cairo Fibonacci sequence: func fib(n: felt) -> (res: felt) { if (n == 0) { return (res=0); } if (n == 1) { return (res=1); } let (a) = fib(n-1); let (b) = fib(n-2); return (res=a + b); } Test: fib(5)=5, fib(10)=55, daily streak practice.
