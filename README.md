@@ -54,4 +54,9 @@ Tested Cairo GCD function.func gcd(a: felt, b: felt) -> (res: felt) {
     let (res) = gcd(b, a % b);
     return (res=res);
 }Test: gcd(48,18)=6, gcd(101,17)=1, daily streak practice.#TeaProtocol #Starknet #CairoLang #OSImpact #AirdropRewardsTea Protocol Streak 23/100 - Dec 17, 2025: Tested Cairo GCD function with recursive Euclidean algorithm.
-
+18 Dec 2025): Explored Cairo 2.0 syntax for smart contract deployment on Tea testnet.
+ Completed daily attestation and reviewed OSS contributions for $TEA rewards.
+ #TeaProtocol #StarknetAirdrop #DailyStreak
+ Day X+1 (19 Dec 2025): Practiced writing a simple factorial function in Cairo for Tea ecosystem.
+ Claimed daily points via wallet connect and joined community discussion.
+ #TeaProtocol #CairoLearning #AirdropFarming
