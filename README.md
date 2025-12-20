@@ -59,4 +59,7 @@ Tested Cairo GCD function.func gcd(a: felt, b: felt) -> (res: felt) {
  #TeaProtocol #StarknetAirdrop #DailyStreak
  19 Dec 2025: Practiced writing a simple factorial function in Cairo for Tea ecosystem.
  Claimed daily points via wallet connect and joined community discussion.
- #TeaProtocol #CairoLearning #AirdropFarming
+ #TeaProtocol #CairoLearning #AirdropFarming#CairoLang #OSImpact #AirdropRewards #TeaProtocol #Starknet
+Protocol Streak 26/100 - Dec 20, 2025: Tested 
+Cairo Prime check function: func is_prime_helper(n: felt, i: felt) -> (res: felt) { if (i * i > n) { return (res=1); } if (n % i == 0) { return (res=0); } let (res) = is_prime_helper(n, i + 1); return (res=res); } func is_prime(n: felt) -> (res: felt) { if (n < 2) { return (res=0); } let (res) = is_prime_helper(n, 2); return (res=res); } Test: is_prime(17)=1, is_prime(18)=0, daily streak practice. Tested Cairo function with recursive helper. Completed daily attestation and reviewed OSS contributions for $TEA rewards.
+#TeaProtocol #StarknetAirdrop #DailyStreak 20 Dec 2025: Practiced writing a simple prime check function in Cairo for Tea ecosystem. Claimed daily points via wallet connect and joined community discussion. #CairoLearning #AirdropFarming
