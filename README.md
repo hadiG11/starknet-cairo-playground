@@ -64,4 +64,8 @@ Protocol Streak 26/100 - Dec 20, 2025: Tested
 Cairo Prime check function: func is_prime_helper(n: felt, i: felt) -> (res: felt) { if (i * i > n) { return (res=1); } if (n % i == 0) { return (res=0); } let (res) = is_prime_helper(n, i + 1); return (res=res); } func is_prime(n: felt) -> (res: felt) { if (n < 2) { return (res=0); } let (res) = is_prime_helper(n, 2); return (res=res); } Test: is_prime(17)=1, is_prime(18)=0, daily streak practice. Tested Cairo function with recursive helper. Completed daily attestation and reviewed OSS contributions for $TEA rewards.
 #TeaProtocol #StarknetAirdrop #DailyStreak 20 Dec 2025: Practiced writing a simple prime check function in Cairo for Tea ecosystem. Claimed daily points via wallet connect and joined community discussion. #CairoLearning #AirdropFarmingDec 21, 2025)**: Practiced Cairo function composition and recursion on Starknet playground. Implemented and tested a simple array max finder to validate loop + conditional behavior, verified outputs on testnet environment, and logged execution notes. Completed daily Tea Protocol check-in and maintained streak continuity. Streak 27/100. #TeaProtocol #Starknet #CairoLang #OSSImpact #DailyStreakDay 28/100 | Tea Protocol | Dec 22, 2025
 Cairo practice on Starknet playground: tested recursion, prime check, and array max logic.
-Daily Tea Protocol check-in completed; streak continued.
+Daily Tea Protocol check-in completed; streak continued.Day 29/100 - Tea Protocol Daily Streak  (Dec 23, 2025)
+Explored advanced Cairo recursion and array manipulation on Starknet playground, optimizing prime checking algorithms and validating loop invariants for robust contract logic. Completed daily Tea Protocol check-in, claimed points via wallet connect, reviewed OSS contributions for $TEA rewards, and maintained streak continuity.
+#TeaProtocol #Starknet #CairoLang #AirdropFarming #OSSimpact #DailyStreak
+
+
