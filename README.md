@@ -68,4 +68,8 @@ Daily Tea Protocol check-in completed; streak continued.Day 29/100 - Tea Protoco
 Explored advanced Cairo recursion and array manipulation on Starknet playground, optimizing prime checking algorithms and validating loop invariants for robust contract logic. Completed daily Tea Protocol check-in, claimed points via wallet connect, reviewed OSS contributions for $TEA rewards, and maintained streak continuity.
 #TeaProtocol #Starknet #CairoLang #AirdropFarming #OSSimpact #DailyStreak
 
+Dec 24, 2025: Delved into advanced prime generation with Sieve of Eratosthenes in Cairo on Starknet playground, implementing array-based sieving and recursion for efficiency.
+Tested sieve logic on large ranges, optimized memory usage, validated outputs against known primes, and ensured robust contract integration.
+Completed daily Tea Protocol check-in, claimed points via wallet connect, reviewed OSS contributions for $TEA rewards, streak 30/100. #TeaProtocol #Starknet #CairoLang #AirdropFarming #OSSImpact #DailyStreak
+
 
